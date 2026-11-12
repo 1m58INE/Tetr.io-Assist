@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="TETR.IO ASSIST research archive">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101C29"/><stop offset="1" stop-color="#1D3441"/></linearGradient><linearGradient id="accent"><stop stop-color="#3BB4C0"/><stop offset="1" stop-color="#FFD728"/></linearGradient></defs>
+<rect width="1000" height="260" rx="17" fill="url(#bg)"/>
+<path d="M35 36H965M35 224H965" stroke="#456875" stroke-width="1" opacity=".7"/>
+<rect x="35" y="38" width="5" height="185" fill="url(#accent)"/>
+<g opacity=".28" fill="none" stroke="#3BB4C0" stroke-width="2"><path d="M760 58h52v52h-52zM816 58h52v52h-52zM872 114h52v52h-52zM816 114h52v52h-52zM760 170h52v52h-52z"/><path d="M745 98h179M746 174h178"/></g>
+<text x="65" y="81" font-size="16" fill="#3BB4C0" letter-spacing="4" font-family="Arial, Helvetica, sans-serif">EXPERIMENTAL RESEARCH ARCHIVE</text>
+<text x="61" y="154" font-size="59" font-weight="700" fill="#ECF5F6" font-family="Arial, Helvetica, sans-serif" letter-spacing="2">TETR.IO ASSIST</text>
+<text x="65" y="192" font-size="17" fill="#B1C9CF" font-family="Arial, Helvetica, sans-serif" letter-spacing="3">FINAL ORIGINAL RELEASE   /   v1.1.10.17</text>
+<rect x="820" y="20" rx="4" width="144" height="28" fill="#FFD728"/><text x="892" y="39" text-anchor="middle" font-size="12" font-weight="700" fill="#182636" font-family="Arial, Helvetica, sans-serif">SOURCE AVAILABLE</text>
+</svg>

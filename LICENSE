@@ -1,0 +1,55 @@
+TETR.IO ASSIST RESTRICTED SOURCE LICENSE
+Version 1.0 — 12 November 2026
+
+IMPORTANT: THIS IS A SOURCE-AVAILABLE, RESTRICTIVE LICENSE, NOT AN OPEN-SOURCE LICENSE.
+
+Copyright (c) 2026 the copyright holder(s) of TETR.IO Assist.
+All rights reserved except as expressly granted below.
+
+1. DEFINITIONS
+"Software" means the original TETR.IO Assist source code, documentation and files made available by the copyright holder(s) under this License, excluding third-party materials governed by their own terms.
+"Project Repository" means the original, copyright-holder-controlled GitHub repository from which the Software is officially published. A copy, mirror, fork, or separately maintained repository is not the Project Repository.
+"Derivative" means a modification, adaptation, translation, extension, rearrangement, or other work based on the Software to the extent protected by applicable copyright law.
+"Contribution" means a proposed change submitted for consideration for inclusion in the Project Repository.
+
+2. LIMITED PERMISSIONS
+Subject to this License, the copyright holder(s) grant a non-exclusive, revocable upon breach, non-transferable, royalty-free permission to:
+(a) access and read the publicly available Software;
+(b) obtain a copy and run or modify it privately solely for non-commercial, offline, isolated research, code review, security review, or testing, without connecting the Software to TETR.IO or affecting other players or any live service; and
+(c) submit Contributions to the Project Repository through its officially enabled contribution mechanisms, including the technically necessary use of a GitHub fork to prepare a pull request, provided that such a fork is not promoted or maintained as an independent release or project and no separate distribution of modified builds is undertaken.
+The permission in (c) does not obligate the copyright holder(s) to accept, review, merge, publish or maintain Contributions. A Contribution must comply with applicable contribution requirements and this License. Any rights not expressly granted are reserved.
+
+3. PROHIBITED ACTS AND DISTRIBUTION
+Without separate prior written permission from the relevant copyright holder(s), you may not:
+(a) publish, distribute, sublicense, sell, rent, commercially exploit, or provide the Software or any Derivative as a separate product, service, repository, downloadable build, release, mirror or independent project;
+(b) publish or distribute modified versions, independent updates, spin-offs or other Derivatives outside the Project Repository, except for the narrow GitHub pull-request preparation permission in Section 2(c);
+(c) present a fork or Derivative as an official continuation or imply the original copyright holder(s) approved it; or
+(d) remove copyright, origin, licensing, safety, or non-affiliation notices.
+No permission to use any trademark, game assets, or third-party code is granted.
+Nothing in this License overrides rights and permissions automatically granted by GitHub's applicable Terms of Service for use of GitHub features, or mandatory exceptions under applicable law. The permissions of GitHub to host or process submitted materials are subject to GitHub's own terms.
+
+4. FAIR PLAY AND THIRD-PARTY SERVICES
+The Software must not be used to violate TETR.IO rules, terms or policies, gain an unfair advantage in live play, automate or assist competitive matches, bypass restrictions or sanctions, abuse services, or harm other participants. No permission is granted to test on live TETR.IO systems or against other players. Research should occur only in a self-contained offline environment or with explicit authorization from the relevant service operator. Operator rules and applicable law prevail regardless of any wording in this License. This License does not suggest that the Software is approved by TETR.IO.
+
+5. CONTRIBUTIONS AND RIGHTS
+Submitting a Contribution does not automatically assign copyright to the Project Repository owner or grant permission to relicense it. Contributors retain rights to their original material. Unless a separate written contribution agreement is accepted by all relevant rightsholders, the Project Repository owner may be unable to incorporate a Contribution or release it under this License. Contributors represent that they have the rights required to submit the material and that it does not include unauthorized third-party content. Submission does not create an employment, agency or maintenance relationship.
+
+6. END OF MAINTENANCE
+The original development of the Software has ended. There is no commitment to provide new versions, maintenance, security fixes, compatibility updates, review of Contributions, support, or any particular response time. Third-party claims of ongoing support are not endorsed by the copyright holder(s).
+
+7. NO WARRANTY
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, NON-INFRINGEMENT, SECURITY OR CONTINUED AVAILABILITY. YOU ARE RESPONSIBLE FOR ASSESSING RISKS AND COMPLIANCE BEFORE ANY USE.
+
+8. LIMITATION OF LIABILITY
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER(S) AND ORIGINAL CONTRIBUTORS SHALL NOT BE LIABLE FOR DAMAGES OR CLAIMS ARISING FROM USE, MISUSE, MODIFICATION, UNAUTHORIZED DISTRIBUTION, THIRD-PARTY CONTRIBUTIONS, SECURITY INCIDENTS, ACCOUNT RESTRICTIONS OR SERVICE-POLICY VIOLATIONS, INCLUDING INDIRECT, INCIDENTAL, CONSEQUENTIAL, SPECIAL OR PUNITIVE DAMAGES OR LOST DATA, PROFITS OR OPPORTUNITIES. THIS LIMITATION DOES NOT EXCLUDE LIABILITY THAT CANNOT LAWFULLY BE EXCLUDED, INCLUDING LIABILITY FOR INTENTIONAL MISCONDUCT WHERE APPLICABLE.
+The acts of a third-party modifier or distributor do not constitute authorization, sponsorship, control or endorsement by the original copyright holder(s).
+
+9. TERMINATION
+Permissions granted by this License automatically terminate upon a material breach. On termination, you must stop all acts requiring permission under this License and destroy non-permitted copies, subject to rights that cannot be restricted by law or applicable platform terms. Sections 3, 5, 7, 8, 9 and 10 survive as necessary. Reinstatement requires written authorization by the relevant copyright holder(s).
+
+10. THIRD-PARTY RIGHTS; NO AFFILIATION; SEVERABILITY
+Third-party components remain subject to their respective licenses and rights. TETR.IO and related names are the property of their respective owners. This Software is an independent, unofficial project and is not affiliated with, endorsed by, sponsored by or approved by the operators of TETR.IO.
+If any provision is unenforceable, the remainder shall continue to the extent permitted by law. This License grants no right to use the Software in a way prohibited by applicable law or any relevant service's terms.
+
+11. LANGUAGE AND LEGAL REVIEW
+This English text is the controlling license. Translated explanations are informational only and do not alter its terms. This custom license has not been certified as an OSI-approved open-source license; enforceability and interpretation may vary by jurisdiction. The copyright holder(s) should obtain qualified legal review before relying on it.
